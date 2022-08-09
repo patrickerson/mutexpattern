@@ -1,2 +1,2 @@
 # Mutex Pattern
-Mutex Pattern Science Compute degree
+Mutex Pattern Science Computer degree
